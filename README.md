@@ -15,17 +15,17 @@ Pygame 2.3.0
 
 1. Clona este repositorio o descarga el código fuente.
 2. Instala las dependencias necesarias ejecutando el siguiente comando:
-   pip install pygame
+    pip install pygame
 Ejecuta el juego ejecutando el archivo Juego.py:
-python Juego.py
-En el menú principal, selecciona el nivel de dificultad haciendo clic en uno de los botones:
-Nivel 1: Velocidad más lenta.
-Nivel 2: Velocidad más rápida.
-Usa las teclas de flecha para mover el coche:
-Flecha derecha: Mover a la derecha.
-Flecha izquierda: Mover a la izquierda.
-Flecha arriba: Mover hacia arriba.
-Flecha abajo: Mover hacia abajo.
+    python Juego.py
+    En el menú principal, selecciona el nivel de dificultad haciendo clic en uno de los botones:
+        Nivel 1: Velocidad más lenta.
+        Nivel 2: Velocidad más rápida.
+        Usa las teclas de flecha para mover el coche:
+        Flecha derecha: Mover a la derecha.
+        Flecha izquierda: Mover a la izquierda.
+        Flecha arriba: Mover hacia arriba.
+        Flecha abajo: Mover hacia abajo.
 Evita los coches enemigos y recoge las monedas.
 Gana el juego recogiendo 10 monedas.
 Pierde una vida al chocar con un coche enemigo. El juego termina si se pierden todas las vidas.
