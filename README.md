@@ -5,9 +5,8 @@
 
 **Ride the Road** es un juego desarrollado en Python utilizando la librería PyGame. El objetivo del juego es recoger monedas mientras se esquivan los coches enemigos. El jugador controla un coche y debe moverse hacia la izquierda, derecha, arriba y abajo para evitar colisiones. El juego cuenta con dos niveles de dificultad y el jugador gana al recoger 10 monedas. Si el jugador choca con un coche enemigo, pierde una vida. El juego termina si el jugador pierde todas las vidas.
 
-## Requisitos
 
-Versiones:
+## Versiones:
 Python 3.8.10
 Pygame 2.3.0 
 
